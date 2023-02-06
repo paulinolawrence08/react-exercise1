@@ -7,6 +7,7 @@ console.log(getAllUsers());
 updateUser(1, { email: "roger@77.com", website: "hilde-edit.org" });
 console.log(getAllUsers());
 
+//Paulino - Exercise 1 CDP Full Stack Batch 04-22
 //Solution for users.js methods
 let geo = {lat: "-88.3159", lng: "77.1496",}
 let address = {street: "Perseus Street", suite: "B406", city: "Marilao", zip: "3019", geo};
